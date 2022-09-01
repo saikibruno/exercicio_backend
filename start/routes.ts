@@ -28,4 +28,12 @@ Route.get('/teste', async () => {
   return { hello: 'Tessste' }
 })
 
-Route.post('/lista2/ex1', 'Lista1sController.ex1')
+Route.post('/lista2/ex1', 'Lista2sController.ex1')
+Route.post('/lista2/ex2', 'Lista2sController.ex2')
+Route.post('/lista2/ex3', 'Lista2sController.ex3')
+Route.post('/lista2/ex4', 'Lista2sController.ex4')
+Route.post('/lista2/ex5', 'Lista2sController.ex5')
+Route.post('/lista2/ex6', 'Lista2sController.ex6')
+Route.post('/lista2/ex7', 'Lista2sController.ex7')
+Route.post('/lista2/ex8', 'Lista2sController.ex8')
+Route.post('/lista2/ex9', 'Lista2sController.ex9')
